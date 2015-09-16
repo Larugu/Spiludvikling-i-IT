@@ -15,5 +15,5 @@ if (Input.GetKeyDown(KeyCode.V)) {
      cam1.enabled = !cam1.enabled;
      cam2.enabled = !cam2.enabled;
  }
-
+Ændring til Cam
 }
