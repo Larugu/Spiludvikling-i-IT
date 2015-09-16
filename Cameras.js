@@ -17,3 +17,5 @@ if (Input.GetKeyDown(KeyCode.V)) {
  }
 
 }
+
+//this script is awesome!
